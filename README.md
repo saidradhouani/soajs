@@ -33,7 +33,7 @@ soajs gives you out of the box a service oriented architecture with self awarene
 ### 2. Multi project, environment, and configuration
 From day one
 
-1. Take advantage of multi environment capability. For example build a development, staging, and production environments.
+1. Take advantage of multi environment capability. For example, build a development, staging, and production environments.
 2. Enjoy the power and ease of configuring each environment from an infrastructure perspective including different devOps and techOps appetites.
 3. Have the ability to create and deploy multiple projects on top of these environments without any collision.
 
@@ -42,10 +42,10 @@ More than 50% of your API code is to collect, format, and validate the passed pa
 
 IMFV does it all for you. A simple json configuration and you are done.
 
-IMFV is based on json schema, support multiple sources with priority, and default values.
+IMFV is based on json schema, supports multiple sources with priority, and default values.
 
-1. Multi type (string, integer, regex, etc..)
-2. Multi format (email, phone, datetime, alphanumeric, etc..)
+1. Multi type (string, integer, regex, etc.)
+2. Multi format (email, phone, datetime, alphanumeric, etc.)
 3. Complex schema (objects, arrays)
 4. Custom format, type and schemas
 
